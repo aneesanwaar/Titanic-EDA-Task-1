@@ -29,10 +29,10 @@ How to Run the Scripts
    
 
 Observations
- - Most passengers with higher fares had better survival rates.
- - Women had a significantly higher survival rate than men.
- - Passengers in first-class survived more than those in lower classes.
- - Age played a role in survival, with younger passengers having better chances.
+ 1. Most passengers with higher fares had better survival rates.
+ 2. Women had a significantly higher survival rate than men.
+ 3. Passengers in first-class survived more than those in lower classes.
+ 4. Age played a role in survival, with younger passengers having better chances.
 
 Conclusion
 EDA on the Titanic dataset provides important insights into survival patterns, which can help in building predictive models in the future. Further analysis could include feature selection and machine learning model implementation.
