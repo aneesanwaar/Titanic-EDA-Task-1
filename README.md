@@ -20,14 +20,15 @@ The dataset consists of:
 
 ## How to Run the Scripts
 1. Install dependencies:
-    ''' bash
+    ``` bash
    pip install pandas numpy matplotlib seaborn
-   '''
+   ```
+
 1. Open and run "Titanic EDA.ipynb" in Jupyter Notebook:
 
-    ''' bash
+    ``` bash
    jupyter notebook "Titanic EDA.ipynb"
-   '''
+   ```
 
 ## Observations
  1. Most passengers with higher fares had better survival rates.
